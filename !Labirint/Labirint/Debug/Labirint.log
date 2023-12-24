@@ -1,0 +1,5 @@
+﻿  Labirint.cpp
+C:\Users\st\source\repos\!Labirint\Labirint\Labirint.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st\source\repos\!Labirint\Labirint\Labirint.cpp(14,38): warning C4101: dir: неиспользованная локальная переменная
+C:\Users\st\source\repos\!Labirint\Labirint\Labirint.cpp(14,6): warning C4101: labr: неиспользованная локальная переменная
+  Labirint.vcxproj -> C:\Users\st\source\repos\!Labirint\Debug\Labirint.exe
